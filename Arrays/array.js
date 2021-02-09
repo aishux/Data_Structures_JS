@@ -40,6 +40,7 @@ myArray.pop();
 myArray.deleteAtIndex(0);
 myArray.push('are');
 myArray.push('nice');
+myArray.push('cute');
 myArray.shiftItems(0);
 console.log(myArray);
 
