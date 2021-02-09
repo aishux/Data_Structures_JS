@@ -3,7 +3,7 @@ function findFactorialIterative(number) {
   // you actually no longer need the if statement because of the for loop
   // if (number === 2) {
   //   answer = 2;
-  // }
+  // } 
   for (let i = 2; i <= number; i++) {
     answer = answer * i;
   }
